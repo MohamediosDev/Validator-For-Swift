@@ -1,6 +1,6 @@
 import Foundation
 
-class ValidatorModule {
+public class ValidatorModule {
     
     //Validate email address logic
     public static func isValidMailInput(input: String) -> Bool {
